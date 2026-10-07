@@ -1,5 +1,5 @@
 # MicroDatosIA - Microcredencial en IA con Python para Ciencia y Tecnología (I & II)
-Modificado el 07 de octubre de 2026
+Modificado el 07 de octubre de 2026 por la tarde.
 
 ## 📚 Resumen del Programa
 
